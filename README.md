@@ -2,7 +2,7 @@
 
 
 
+https://github.com/MbNextT1me/waves_lua/assets/70710273/e34707e8-d673-4706-a805-fa2e57531d96
 
-https://github.com/MbNextT1me/waves_lua/assets/70710273/d8ecb82e-3e6b-4f87-9c87-9dc73a494c69
 
 
