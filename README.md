@@ -1,6 +1,6 @@
 # waves_lua
 
+![Видео](https://github.com/MbNextT1me/waves_lua/assets/70710273/5c6d3380-48d2-4899-8272-a062b9012d62)
 
 
-https://github.com/MbNextT1me/waves_lua/assets/70710273/0ea8a07d-1fa0-45b0-821d-154bc9e53834
 
