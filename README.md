@@ -1,4 +1,8 @@
 # waves_lua
 
-!https://github.com/MbNextT1me/waves_lua/assets/70710273/2479f5dd-5b52-4f5d-bbfc-90fdecf203f5
+
+
+
+https://github.com/MbNextT1me/waves_lua/assets/70710273/d8ecb82e-3e6b-4f87-9c87-9dc73a494c69
+
 
